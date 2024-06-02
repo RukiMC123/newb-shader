@@ -13,7 +13,7 @@ hero_btns = [
 <div style="width: 100%; display: flex; flex-wrap: wrap; gap: 10px;">
 
 {{ explorecard(
-    title = "Newb X Legacy"
+    title = "Newb X Paretion"
     description = "Newb Shader for RenderDragon."
     image = "https://raw.githubusercontent.com/devendrn/newb-x-mcbe/main/docs/screenshots.jpg"
     url = "download"
